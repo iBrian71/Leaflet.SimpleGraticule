@@ -2,6 +2,7 @@
  *  File: L.SimpleGraticule.js
  *  Desc: A graticule for Leaflet maps in the L.CRS.Simple coordinate system.
  *  Auth: Andrew Blakey (ablakey@gmail.com)
+ *  Moved the Gridlabel to the Right Hand Side
  */
 L.SimpleGraticule = L.LayerGroup.extend({
     options: {

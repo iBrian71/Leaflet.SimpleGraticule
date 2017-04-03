@@ -1,5 +1,5 @@
 .leaflet-grid-label .gridlabel-vert {
-    margin-left: 8px;
+    margin-left: 8px; 
     -webkit-transform: rotate(90deg);
     transform: rotate(90deg);
 }
